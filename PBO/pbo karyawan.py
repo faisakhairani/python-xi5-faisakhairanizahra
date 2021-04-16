@@ -12,7 +12,7 @@ class Karyawan:
 
     def tampilkan_profil(self):
         print("Nama :", self.nama)
-        print("Gaji :", slef.gaji)
+        print("Gaji :", self.gaji)
 
 # Membuat objek pertama dari kelas Karyawan
 karyawan1 = Karyawan("Sarah", 1000000)
